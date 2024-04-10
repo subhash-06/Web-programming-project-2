@@ -1,0 +1,18 @@
+$100;What are made and repaired by a cobbler?;Shoes;Roads;Windows;Jewellery;Shoes
+$200;In the medical profession, what do the initials 'GP' stand for?;Good Practitioner;Garden Practitioner;General Practitioner;Graded Practitioner;General Practitioner
+$300;What is the smallest country in the world?;Iceland;Seychelles;Spain;Vatican City;Vatican City
+$500;In what year was the first iPhone released?;2000;2004;2007;2009;2007
+$1,000;Which airport is the opening scene of Love Actually set in?;Heathrow;Gatwick;Luton;Stansted;Heathrow
+$2,000;What colour were the Pyramids of Giza originally?;Orange;Blue;Pink;White;White
+$4,000;Which Shakespeare play included the famous stage direction Exit Pursued By A Bear?;A Winter's Tale;Hamlet;Macbeth;Othello;A Winter's Tale
+$8,000;What is the most sold flavour of Walker’s crisps?;Cheese and Onion;Salt and Vinegar;Prawn Cocktail;Ready Salted;Cheese and Onion
+$16,000;Which city will host the 2028 Olympic Games?;Beijing;Paris;Tokyo;Los Angeles;Los Angeles
+$32,000;Duroc, Berkshire and Mangalica are breeds of which farmyard animal?;Chicken;Cow;Pig;Sheep;Pig
+$64,000;Which singer has a tattoo of Heinz tomato ketchup on his arm?;Lewis Capaldi;Martin Kemp;Tom Jones;Ed Sheeran;Ed Sheeran
+$125,000;How many million miles away is the sun from the Earth?;93 million;12 million;136 million;200 million;93 million
+$250,000;What was the only painting sold by Vincent van Gogh during his lifetime?;Sunflowers;The Starry Night;The Red Vineyard;The Yellow House;The Red Vineyard
+$500,000;Who won the first ever football World Cup?;Uruguay;Brazil;Portugal;Sweden;Uruguay
+$1 MILLION;Who was the youngest British Prime Minister?;David Cameron;William Pitt The Younger;Tony Blair;William Cavendish;William Pitt The Younger
+
+
+

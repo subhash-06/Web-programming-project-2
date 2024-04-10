@@ -1,0 +1,30 @@
+
+body{
+    background-image: url('images/game.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    resize: none;
+    color: white;
+    font-size: x-large;
+}
+.wrong , .drop{
+    border:2px solid white;
+    background-color: #214fc6;
+    border-radius: 5px;
+    padding:5px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 15%;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    border:2px solid white;
+    border-radius: 5px;
+    padding:5px;
+    background-color: white;
+    color:black;
+}
+.wrong p{
+    color: red;
+}

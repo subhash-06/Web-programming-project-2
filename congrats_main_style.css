@@ -1,0 +1,22 @@
+body{
+    background-image: url('./images/congrts.gif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    resize: none;
+}
+/*  */
+img{
+    height: 30%;
+    width: 20%;
+    margin-left: 40%;
+}
+h1{
+    color: purple;
+    font-size: 35pt;
+    margin-left: 40%;
+}
+h2{
+    color: purple;
+    font-size: 25pt;
+    margin-left: 40%;
+}
